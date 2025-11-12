@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+
+@font-face {
+  font-family: 'Dirooz';
+  src: url('/Fonts/Dirooz.woff') format('woff'),
+       url('/Fonts/Dirooz.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; /* برای بهینه‌سازی سرعت لود */
+}
+
+h1,h2,h3,h4,h5,h6,p,div {
+  font-family: Dirooz;
+}
+
+body {
+  color: #FFF8F8;
+  direction: rtl;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  
+
+
+}
+
+h1,h2,h3,h4,h5,h6 {
+  color: #1B56FD;
+}
+
+
+
