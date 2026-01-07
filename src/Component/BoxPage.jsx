@@ -6,7 +6,7 @@ export default function Desc({title, desc, srcI}) {
                 <p className="text-lg font-bold text-black">{desc}</p>
             </div>
             <div>
-                <img className="w-300" src={srcI} alt="" />
+                <img className="hidden md:block w-300" src={srcI} alt="" />
             </div>
         </div>
 
