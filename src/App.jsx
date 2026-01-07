@@ -23,7 +23,7 @@ function App() {
       <div className="absolute inset-0 flex items-center justify-center">
         <div className="bg-white/50 backdrop-blur-md p-12 rounded-3xl w-1/3 text-center shadow-1xl">
           <h1 className="text-6xl font-bold text-0118D8 mb-6 text-center">همیار فنی</h1>
-          <p className='text-2xl font-bold text-black'>همیار فنی همراه همیشه تو در کار فنی</p>
+          <p className='text-2xl font-bold text-black'>همیار فنی متخصص هوشمندِ جیبی شما</p>
           <div className='mt-4 flex justify-around'>
             <Button text="سایت" onClick={ClickedSite}></Button>
             <Button text="اپلیکیشن" onClick={ClickedSite}></Button>
