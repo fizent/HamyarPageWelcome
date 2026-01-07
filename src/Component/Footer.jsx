@@ -37,7 +37,7 @@ export default function Footer() {
 
       {/* کپی‌رایت */}
       <p className="text-center text-gray-500 text-sm">
-        © {new Date().getFullYear()} ErnanSmart همه حقوق محفوظ است.
+        © {new Date().getFullYear()} HamyarFani(Mohammad Fazel Zare) همه حقوق محفوظ است.
       </p>
     </footer>
   );
